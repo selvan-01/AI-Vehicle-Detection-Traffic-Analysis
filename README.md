@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail17.png" width="800">
+</p>
+
 # 🚗 AI-Based Vehicle Detection & Traffic Density Analysis System
 
 ## 📌 Overview
@@ -80,6 +84,12 @@ python src/main.py
 * Save output video
 * Build dashboard for traffic analytics
 * Deploy as web application
+
+  ## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/AI-Vehicle-Detection-Traffic-Analysis.git)
 
 ## 👨‍💻 Author
 
